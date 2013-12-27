@@ -1,6 +1,6 @@
 # Expense tracker using Scaloid
 
-An Android application to keep track of your personal expenses, using Scaloid.
+An Android application to keep track of your personal expenses, using [Scaloid](https://github.com/pocorall/scaloid).
 
 Prerequisites
 -------------
