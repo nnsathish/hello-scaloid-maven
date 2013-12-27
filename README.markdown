@@ -1,8 +1,6 @@
-# Hello Scaloid for maven
+# Expense tracker using Scaloid
 
-This is a template project that can be a starting point of a new [Scaloid](https://github.com/pocorall/scaloid) project. 
-
-This contains minimum code as possible; therefore easy to run, examine and extend.
+An Android application to keep track of your personal expenses, using Scaloid.
 
 Prerequisites
 -------------
@@ -29,28 +27,3 @@ Run
 Deploy to an Android virtual device (AVD):
 
     $ mvn android:deploy
-
-Using an IDE
-------------
-You can use Maven to generate project files for Eclipse or IDEA:
-
-    $ mvn eclipse:eclipse
-    $ mvn idea:idea
-
-Troubleshooting
----------------
-
-#### Error `ANDROID-904-002: Found aidl files: Count = 0`
-The environment variable `ANDROID_HOME` is incorrect.
-
-
-Further Reading
----------------
-- [Scaloid](https://github.com/pocorall/scaloid)
-- [Scaloid APIdemos](https://github.com/pocorall/scaloid-apidemos)
-- [Android Maven Plugin](http://code.google.com/p/maven-android-plugin/)
-
-
-Origin
-------
-This project is forked from [android-scala-test](https://github.com/rohansingh/android-scala-test). Thanks [rohansingh](https://github.com/rohansingh)!

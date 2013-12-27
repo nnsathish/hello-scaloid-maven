@@ -1,9 +1,9 @@
-package org.scaloid.hello
+package org.scaloid.expensetracker
 
 import org.scaloid.common._
 import android.graphics.Color
 
-class HelloScaloidActivity extends SActivity {
+class TrackerActivity extends SActivity {
 
   onCreate {
     contentView = new SVerticalLayout {
